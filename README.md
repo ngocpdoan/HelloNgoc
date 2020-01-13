@@ -1,5 +1,3 @@
-# hellongoc
-
 ## HELLO_NGOC
 
 ### App Description
